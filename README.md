@@ -1,4 +1,4 @@
-## <p style="color: #000;"> Bom dia, meu nome é Pedro Vidal, estudante e desenvolvedor iniciante! </p>
+## <p color="#000"> Bom dia, meu nome é Pedro Vidal, estudante e desenvolvedor iniciante! </p>
 <div style="position:relative; display:flex; flex-direction:column;">
   <a href="https://github.com/PedroVidalDev">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PedroVidalDev&&show_icons=true&theme=aura"/>
