@@ -1,10 +1,8 @@
 # What's up, I'm Pedro Vidal!
 
-📘Student of Systems Analysis and Development
-
-🤷‍♂️Learning Laravel Framework
-
-🕵️‍Finding my first job
+#### 📘Student of Systems Analysis and Development
+#### 🤷‍♂️Learning Laravel Framework
+#### 🕵️‍Finding my first job
 
 ##
 
