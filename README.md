@@ -1,7 +1,7 @@
 ## Bom dia, meu nome é Pedro Vidal, estudante e desenvolvedor iniciante!
 <div align="left">
   <a href="https://github.com/PedroVidalDev">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FelipeFama&&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FelipeFama&&show_icons=true&theme=aura"/>
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PedroVidalDev&layout=compact&langs_count=7&theme=aura"/>
 </div>
 <div style="display: inline_block"><br>
