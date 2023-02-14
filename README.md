@@ -1,12 +1,13 @@
-<h1>What's up, I'm Pedro Vidal!</h1> <h4> Student of Systems Analysis and Development </h4>
+<h1>What's up, I'm Pedro Vidal!</h1> 
+<h4>Student of Systems Analysis and Development</h4>
 
 <div>
   <a href="https://github.com/PedroVidalDev">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PedroVidalDev&&show_icons=true&theme=aura"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PedroVidalDev&layout=compact&langs_count=7&theme=aura"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PedroVidalDev&&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PedroVidalDev&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-<h2> Tecnologias conhecidas: </h2>
+<h2> Known technologies: </h2>
 <div>
   <img align="center" alt="Vidal-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vidal-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
