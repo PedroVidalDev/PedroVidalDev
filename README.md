@@ -1,5 +1,5 @@
 ## Bom dia, meu nome é Pedro Vidal, estudante e desenvolvedor iniciante!
-<div style="display: flex; flex-direction: column;">
+<div style="position:relative; display:flex; flex-direction:column;">
   <a href="https://github.com/PedroVidalDev">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PedroVidalDev&&show_icons=true&theme=aura"/>
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PedroVidalDev&layout=compact&langs_count=7&theme=aura"/>
