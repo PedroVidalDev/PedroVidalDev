@@ -2,7 +2,7 @@
 
  - 📘Student of Systems Analysis and Development
  - 🤷‍♂️Learning Javascript
- - 🕵️‍Finding my first web development job
+ - 🕵️‍Evolving
 
 ##
 
