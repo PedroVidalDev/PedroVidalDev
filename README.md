@@ -1,7 +1,7 @@
 # What's up, I'm Pedro Vidal!
 
  - 📘Student of Systems Analysis and Development
- - 🤷‍♂️Learning Javascript
+ - 🤷‍♂️Learning Typescript
  - 🕵️‍Evolving every day
 
 ##
