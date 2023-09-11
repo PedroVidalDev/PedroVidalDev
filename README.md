@@ -2,7 +2,7 @@
 
  - 📘Student of Systems Analysis and Development
  - 🤷‍♂️Learning Javascript
- - 🕵️‍Evolving
+ - 🕵️‍Evolving every day
 
 ##
 
