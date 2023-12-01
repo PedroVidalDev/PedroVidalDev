@@ -8,8 +8,9 @@
 
 <div>
   <a href="https://github.com/PedroVidalDev">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PedroVidalDev&&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PedroVidalDev&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroVidalDev&theme=transparent&bg_color=000&border_color=4b0082&show_icons=true&icon_color=32174d&title_color=4b0082&text_color=FFF"/>
+   
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PedroVidalDev&layout=compact&langs_count=7&bg_color=000&border_color=4b0082&title_color=32174d&text_color=FFF"/>
 </div>
   
 ## Known technologies:
