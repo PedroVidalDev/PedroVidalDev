@@ -1,7 +1,7 @@
 # What's up, I'm Pedro Vidal!
 
  - 📘Student of Systems Analysis and Development
- - 🤷‍♂️Learning Spring
+ - 🤷‍♂️Learning Express
  - 🕵️‍Evolving every day
 
 ##
@@ -22,7 +22,7 @@
   <img align="center" alt="Vidal-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vidal-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Vidal-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Vidal-php" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg">
+  <img align="center" alt="Vidal-Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg">
 </div>
 
 ##
