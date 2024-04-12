@@ -1,7 +1,7 @@
 # What's up, I'm Pedro Vidal!
 
  - 📘Student of Systems Analysis and Development
- - 🤷‍♂️Learning Express
+ - 🤷‍♂️Learning Express and WebSockets
  - 🕵️‍Evolving every day
 
 ##
@@ -12,6 +12,9 @@
    
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PedroVidalDev&layout=compact&langs_count=7&bg_color=000&border_color=4b0082&title_color=32174d&text_color=FFF"/>
 </div>
+
+## Organizations:
+<a href="https://github.com/Cliyo"> <img src="https://avatars.githubusercontent.com/u/166717333?s=200&v=4"> </a>
   
 ## Known technologies:
 <div>
