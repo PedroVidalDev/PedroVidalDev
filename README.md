@@ -1,7 +1,6 @@
 # What's up, I'm Pedro Vidal!
 
  - 📘Student of Systems Analysis and Development
- - 🤷‍♂️Learning Express and WebSockets
  - 🕵️‍Evolving every day
 
 ##
