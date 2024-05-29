@@ -1,7 +1,7 @@
-# What's up, I'm Pedro Vidal!
+# Tudo bem? Eu me chamo Pedro Vidal!
 
- - 📘Student of Systems Analysis and Development
- - 🕵️‍Evolving every day
+ - 📘Estudante de Análise e Desenvolvimento de Sistemas
+ - 🕵Foco em progredir todos os dias
 
 ##
 
