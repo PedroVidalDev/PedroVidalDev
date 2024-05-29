@@ -12,10 +12,10 @@
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PedroVidalDev&layout=compact&langs_count=7&bg_color=000&border_color=4b0082&title_color=32174d&text_color=FFF"/>
 </div>
 
-## Organizations:
+## Organização:
 <a href="https://github.com/Cliyo"> <img src="https://avatars.githubusercontent.com/u/166717333?s=200&v=4"> </a>
   
-## Known technologies:
+## Tecnologias conhecidas:
 <div>
   <img align="center" alt="Vidal-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
   <img align="center" alt="Vidal-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
