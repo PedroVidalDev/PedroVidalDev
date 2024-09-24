@@ -1,6 +1,7 @@
 # Tudo bem? Eu me chamo Pedro Vidal!
 
- - 📘Estudante de Análise e Desenvolvimento de Sistemas
+ - 💻Estagiário em Desenvolvimento FullStack em NewGO Tecnologia
+ - 🎓Estudante de Análise e Desenvolvimento de Sistemas
  - 🕵Foco em progredir todos os dias
 
 ##
@@ -25,8 +26,6 @@
   <img align="center" alt="Vidal-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vidal-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vidal-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Vidal-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Vidal-Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">
 </div>
 
 ##
