@@ -8,12 +8,6 @@
    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PedroVidalDev&layout=compact&langs_count=7&bg_color=080b1a&border_color=a95178&title_color=a95178&text_color=FFF"/>
 </p>
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=32&duration=2000&pause=150&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=57&lines=Organizations)](https://git.io/typing-svg)
-<p align="center">
- <a href="https://github.com/Cliyo"> <img width="150px" height="150px" src="https://avatars.githubusercontent.com/u/166717333?s=200&v=4"> </a>
- <a href="https://github.com/newgotecnologia"> <img width="135px" height="135px" src="https://avatars.githubusercontent.com/u/68700427?s=200&v=4"> </a>
-</p>
-
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=32&duration=2000&pause=150&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=57&lines=Stacks)](https://git.io/typing-svg)
 <p align="center">
  <a href="https://skillicons.dev">
